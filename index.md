@@ -4,7 +4,7 @@ title: Data Structures and Object Oriented Design
 nav: index
 ---
 
-## USC CS Markdown Webpage Template
+## Peter's Test Website
 
 Welcome! 
 
